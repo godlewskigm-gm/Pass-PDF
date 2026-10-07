@@ -79,4 +79,4 @@ The software is completely free and **does not require any license** or activati
 
 ### Author
 
-Maksym Goldevskyi. Copyright details: README.txt.
+Maksym Goldevskyi. Copyright details: About.txt.
