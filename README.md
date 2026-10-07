@@ -1,5 +1,16 @@
-# Pass-PDF — przewodnik użytkownika w językach PL i EN
-# Pass-PDF — User Guide in Polish and English
+# Pass-PDF
+
+Free Windows tool to password-protect PDF files. **No license / activation required.**
+
+> **Copyright / terms:** see [About.txt](./About.txt) — free to use; source code is not public; all rights reserved by **Maksym Goldevskyi**.
+
+**Download (installer):** [Pass-PDF 1.0 — Releases](https://github.com/godlewskigm-gm/Pass-PDF/releases/latest)
+
+Requirements: Windows 10/11 (x64), [.NET 8 Desktop Runtime](https://dotnet.microsoft.com/download/dotnet/8.0) if prompted by the installer/app.
+
+---
+
+# Pass-PDF — przewodnik użytkownika (PL) / User Guide (EN)
 
 ---
 
@@ -18,7 +29,7 @@ Program jest całkowicie darmowy i **nie wymaga żadnej licencji** ani aktywacji
 
 ### Jak uruchomić
 
-1. Zainstaluj program instalatorem albo uruchom `publish\PassPDF.exe`.
+1. Pobierz instalator z [Releases](https://github.com/godlewskigm-gm/Pass-PDF/releases/latest) i zainstaluj **albo** uruchom `PassPDF.exe` z folderu publish.
 2. Wymagany jest .NET 8 Runtime (jeśli używasz wersji framework-dependent).
 
 ### Jak zacząć — krótki przepis
@@ -28,8 +39,8 @@ Program jest całkowicie darmowy i **nie wymaga żadnej licencji** ani aktywacji
 3. Wpisz hasło i powtórz je.
 4. Kliknij **Zabezpiecz** / **Protect**.
 5. Program zapisuje kopie z sufiksem w nazwie (obok oryginałów). Przy kolizji nazw pyta o zastąpienie.
-6. Język: **PL** / **EN** w nagłówku.
-7. **O programie** — informacje o autorze oraz zakładka **Donate / Podziękowanie** (konto bankowe i linki z kopiowaniem).
+6. Język: **PL** / **EN** w nagłówku (ostatni wybór jest zapamiętywany).
+7. **O programie** — informacje o autorze oraz zakładka **Donate / Podziękowanie**.
 
 ### Przydatne informacje
 
@@ -37,9 +48,9 @@ Program jest całkowicie darmowy i **nie wymaga żadnej licencji** ani aktywacji
 - Pliki już zabezpieczone hasłem mogą nie dać się otworzyć do ponownego szyfrowania bez obecnego hasła.
 - Brak pliku licencji, Licence.exe ani aktywacji — program działa od razu po instalacji.
 
-### Autor
+### Autor i zasady
 
-Maksym Goldevskyi. Szczegóły praw autorskich: README.txt.
+Maksym Goldevskyi. Szczegóły praw autorskich: [About.txt](./About.txt).
 
 ---
 
@@ -58,7 +69,7 @@ The software is completely free and **does not require any license** or activati
 
 ### How to run it
 
-1. Install with the setup package or run `publish\PassPDF.exe`.
+1. Download the installer from [Releases](https://github.com/godlewskigm-gm/Pass-PDF/releases/latest) **or** run `PassPDF.exe` from the publish folder.
 2. .NET 8 Runtime is required for the framework-dependent build.
 
 ### How to start — short recipe
@@ -68,8 +79,8 @@ The software is completely free and **does not require any license** or activati
 3. Enter the password and confirm it.
 4. Click **Protect**.
 5. The app writes copies with a name suffix next to the originals. On name conflicts it asks whether to replace.
-6. Language: **PL** / **EN** in the header.
-7. **About** — author information and the **Donate / Thanks** tab (bank account and links with copy buttons).
+6. Language: **PL** / **EN** in the header (the last choice is remembered).
+7. **About** — author information and the **Donate / Thanks** tab.
 
 ### Useful notes
 
@@ -77,6 +88,6 @@ The software is completely free and **does not require any license** or activati
 - Files that are already password-protected may not open for re-encryption without the current password.
 - No license file, Licence.exe, or activation — the program works immediately after install.
 
-### Author
+### Author and terms
 
-Maksym Goldevskyi. Copyright details: About.txt.
+Maksym Goldevskyi. Copyright details: [About.txt](./About.txt).

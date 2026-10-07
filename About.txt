@@ -1,4 +1,4 @@
-## EN 📜 Author and Copyright
+## EN — Author and Copyright
 
 The sole author and originator of this project is **Maksym Goldevskyi**.
 
@@ -10,7 +10,7 @@ All rights reserved. Any copying, modification, distribution, or creation of der
 
 ------------------------------------------------------
 
-## PL 📜 Autor i Prawa Autorskie
+## PL — Autor i Prawa Autorskie
 
 Jedynym autorem i twórcą tego projektu jest **Maksym Goldevskyi**.
 
